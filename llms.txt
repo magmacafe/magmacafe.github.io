@@ -1,0 +1,250 @@
+# Magma Café
+
+> Cafeteria no Centro de Tucano-BA com cafés especiais, drinks e delícias artesanais. Aberta todos os dias das 07h às 22h, exceto às terças-feiras. Pedidos e informações pelo WhatsApp +55 75 98700-0819.
+
+- Endereço: R. Padre Silvio Ribeiro, Centro, Tucano-BA, 48793-000
+- Instagram: https://www.instagram.com/magmacafe_/
+- WhatsApp: https://wa.me/5575987000819
+- Cardápio: https://magmacafe.github.io/
+- Opções: leite zero lactose, leite vegetal e crema de barista vegana sob pedido.
+
+## Cardápio
+
+### Cafés
+
+**Espressos & coados**
+- Café espresso 40ml: R$ 8,90
+- Café espresso carioca 50ml: R$ 8,90. Extraído com mais água, fica mais suave, com sabor menos intenso e volume maior.
+- Café Doppio 60ml: R$ 10,50. Duas doses de espresso.
+- Café coado 120ml: V60 R$ 8,90; Filtro de pano R$ 8,90; Prensa francesa R$ 8,90. Método à sua escolha.
+- Café coado Rigno 120ml: V60 R$ 13,90; Filtro de pano R$ 13,90; Prensa francesa R$ 13,90. O café especial mais premiado do Brasil, moído na hora e preparado no método de sua escolha.
+- Pingado: R$ 9,90. Café coado com leite.
+- Macchiato 120ml: R$ 12,00. Espresso manchado com leite.
+- Mocha / Moca: R$ 13,00. Espresso, leite vaporizado e calda de chocolate.
+
+**Cappuccinos & chocolates**
+- Cappuccino tradicional 100ml: R$ 14,00. Espresso, leite vaporizado, espuma de leite e canela.
+- Cappuccino de Nutella 120ml: R$ 15,90. Cappuccino tradicional com borda de Nutella e raspas de chocolate.
+- Cappuccino com borda de doce de leite e limão siciliano: R$ 15,00. Café espresso, leite vaporizado, doce de leite na borda, finalizado com chantilly e raspas de limão siciliano.
+- Cappuccino com pistache: R$ 17,00. Cappuccino tradicional com borda de Nutella e pistache.
+- Chocolate quente 120ml: R$ 15,00. Chocolate, cacau em pó e leite vaporizado.
+- Chocolate quente Magma 120ml: R$ 17,00. Cremoso, intenso e reconfortante. Feito com chocolate de verdade e leite vaporizado: a escolha perfeita para aquecer o coração.
+- Frappuccino 200ml: R$ 19,00. Espresso, leite vaporizado, leite condensado, chocolate em pó, biscoito triturado e gelo, finalizado com chantilly.
+- Affogato: R$ 19,00. Bola de sorvete de baunilha ou creme “afogada” com café espresso.
+
+### Gelados & Shakes
+- Chá gelado de hibisco: R$ 14,90. Chá de hibisco concentrado, Schweppes Citrus, limão siciliano e geleia de morango.
+- Smoothie de morango: R$ 25,00. Sorvete de creme, morango, leite condensado, leite e chantilly.
+- Smoothie de maracujá: R$ 25,00. Sorvete de creme, leite, maracujá, leite condensado e chantilly.
+- Mocha coffee shake: R$ 22,00. Sorvete, café espresso, chantilly e calda de chocolate.
+- Frapp de paçoca e caramelo: R$ 23,00. Sorvete, paçoca, leite, chantilly e doce de leite na taça.
+- Affogato com chocolate cremoso: R$ 25,00. Sorvete, chocolate quente e chantilly.
+- Affogato tradicional: R$ 25,00. Sorvete, café espresso e chantilly.
+
+### Café da manhã
+
+**Paninis & sanduíches**
+- Panini Caprese: R$ 20,00. Pão italiano selado na manteiga, mussarela, tomate, rúcula e molho pesto.
+- Panini Frango e bacon: R$ 28,00. Pão italiano selado na manteiga, peito de frango grelhado, bacon crocante, queijo provolone e tomate.
+- Panini Parma: R$ 35,00. Pão italiano selado na manteiga, presunto de parma, mussarela, tomate, rúcula e molho pesto.
+- Croque Monsieur: R$ 30,00. Fatias de pão brioche tostadas na manteiga, recheado com queijo e presunto, coberto por molho bechamel e queijo.
+- Salmão Cheese: R$ 39,90. Ciabatta, salmão, cream cheese, pepino, mix de folhas e molho teriyaki.
+
+**Tapiocas**
+- Tapioca sem recheio: R$ 9,90
+- Tapioca de manteiga: R$ 12,00
+- Tapioca de queijo: R$ 19,90
+- Tapioca de charque e queijo coalho: R$ 29,00
+- Tapioca de carne de sol e queijo coalho: R$ 25,00
+- Tapioca de frango: R$ 20,90
+- Tapioca de frango com catupiry: R$ 22,90
+- Tapioca de bode desfiado: R$ 29,00
+- Tapioca de queijo e presunto: R$ 20,90
+
+**Pão na chapa**
+- Pão na chapa com manteiga: R$ 4,00
+- Pão na chapa com queijo coalho: R$ 14,90
+- Pão na chapa com requeijão: R$ 14,90
+- Pão na chapa com queijo e presunto: R$ 14,90
+- Pão na chapa com ovo: R$ 8,90
+- Trio sensação: R$ 25,00. Três metades de pão francês, cada uma com um sabor: calabresa com requeijão, 4 queijos e doce de leite.
+- Sanduíche cartola: R$ 19,90. Pão de forma na chapa, banana caramelizada, queijo e mel.
+
+**Cuscuz**
+- Cuscuz com manteiga: R$ 15,00
+- Cuscuz com ovos mexidos: R$ 18,00
+- Cuscuz com charque: R$ 29,90
+- Cuscuz com carne de sol: R$ 25,00
+- Cuscuz com frango: R$ 19,90
+- Cuscuz com bode frito: R$ 35,00. Bode frito como acompanhamento.
+- Cuscuz sensação: R$ 35,00. Cuscuz recheado com carne de sol, creme de queijo e geleia de abacaxi com pimenta.
+
+**Macaxeira**
+- Macaxeira com carne de sol: R$ 25,00
+- Macaxeira com ovos mexidos: R$ 20,00
+- Macaxeira com charque: R$ 29,00
+- Macaxeira com bode frito: R$ 35,00
+
+**Ovos & omeletes**
+- À la Magma: R$ 25,00. Ovos mergulhados no molho de tomate da casa, creme azedo, parmesão e pesto. Acompanha torradas.
+- Mexidos com bacon: R$ 19,90. Ovos mexidos com fatias de bacon. Acompanha pão chapeado.
+- Omelete com carne do sertão (charque): R$ 29,90
+- Omelete com carne de sol: R$ 25,00
+
+**Quiches**
+- Quiche de camarões e palmito: R$ 24,90. Massa pâte brisée (amanteigada e quebradiça) recheada com camarões, alho-poró, palmito e mussarela.
+- Quiche de bacalhau: R$ 24,90. Massa pâte brisée (amanteigada e quebradiça) recheada com lascas de bacalhau, alho-poró e azeitonas.
+- Torta de frango: R$ 22,00
+
+**Croissants & pão de queijo**
+- Croissant tradicional (sem recheio): R$ 9,90
+- Croissant de queijo e presunto: R$ 14,90
+- Croissant de frango com catupiry: R$ 15,90
+- Croissant de Nutella: R$ 16,90
+- Pão de queijo tradicional: R$ 19,90. Porção com 6 unidades.
+
+### Entradas & Petiscos
+
+**Petiscos**
+- Dadinho de tapioca: R$ 25,90. Dadinhos de tapioca com queijo coalho, servidos com geleia de pimenta. (6 unidades)
+- Bolinho de camarão: R$ 55,00. Camarões refogados com alho-poró, empanados na farinha panko, com gremolata de coentro e maionese de limão siciliano. (8 unidades)
+- Bolinho de carne de sol: R$ 29,90. Massa de macaxeira recheada com carne de sol, empanada na farinha panko, com gremolata de coentro e geleia de pimenta. (8 unidades)
+- Bolinho de bode: R$ 35,90. Carne de bode desfiada, empanada na farinha panko, finalizada com picles de maxixe e servida com maionese da casa. (8 unidades)
+
+**Pastéis**
+- Pastel de carne: R$ 19,90
+- Pastel de frango: R$ 19,90
+- Pastel de queijo: R$ 19,90
+- Pastel de camarão: R$ 22,00
+
+**Porções**
+- Fritas: R$ 28,90. Sequinhas e crocantes, acompanham maionese de bacon.
+- Fritas do Jorro: R$ 34,90. Com dadinhos de queijo coalho e bacon crocante, acompanham maionese da casa.
+- Onion rings: R$ 28,90. Anéis de cebola empanados, sequinhos e crocantes, acompanham maionese da casa.
+- Camarão Magma: R$ 80,00. Camarões crocantes empanados na farinha panko, servidos com creme de queijo. (300g)
+- Filezinho cremoso: R$ 49,90. Cubos de filé mignon envoltos em cremoso molho de parmesão e gorgonzola. Acompanha torradinhas.
+- Carne do sol com aipim: R$ 45,00
+
+**Escondidinho**
+- Escondidinho de frango: R$ 29,90
+- Escondidinho de charque: R$ 35,00
+- Escondidinho de camarão: R$ 39,90
+
+**Salada da casa**
+- Salada da casa: Filé de frango R$ 40,90; Camarão R$ 48,90; Salmão R$ 55,90. Mix de folhas crocantes, tomatinhos cereja, palmito, lascas de parmesão, castanha de caju, croutons e proteína à escolha (150g). Molho: mostarda e mel, limão siciliano com iogurte ou caseirinho (limão, azeite e sal).
+
+### Pizzas
+
+**Salgadas**
+- Pizza Marguerita: Média (M) R$ 45,90; Grande (G) R$ 55,90. Molho de tomate artesanal, mussarela, tomate, parmesão e manjericão.
+- Pizza Frango catupiry: Média (M) R$ 52,00; Grande (G) R$ 65,00. Molho de tomate artesanal, mussarela, frango, catupiry e orégano.
+- Pizza Carne de sol: Média (M) R$ 53,90; Grande (G) R$ 70,00. Molho de tomate artesanal, mussarela, carne de sol, cebola roxa e orégano.
+- Pizza Charque: Média (M) R$ 54,90; Grande (G) R$ 72,00. Molho de tomate artesanal, mussarela, charque, cebola roxa e orégano.
+- Pizza Charque da terra: Média (M) R$ 57,90; Grande (G) R$ 78,00. Molho de tomate artesanal, queijo coalho, charque, banana da terra e orégano.
+- Pizza Portuguesa: Média (M) R$ 52,00; Grande (G) R$ 65,00. Molho de tomate artesanal, mussarela, presunto, pimentão, ovo, cebola e orégano.
+- Pizza Palmito: Média (M) R$ 51,00; Grande (G) R$ 60,00. Molho de tomate artesanal, mussarela, palmito, azeitonas e orégano.
+- Pizza Camarão: Média (M) R$ 58,00; Grande (G) R$ 76,00. Molho de tomate artesanal, mussarela, camarão, catupiry e orégano.
+- Pizza Calabresa: Média (M) R$ 49,90; Grande (G) R$ 60,00. Molho de tomate artesanal, mussarela, calabresa, cebola, azeitonas e orégano.
+- Pizza Bacon: Média (M) R$ 52,00; Grande (G) R$ 65,00. Molho de tomate artesanal, mussarela, bacon e orégano.
+- Pizza Rúcula com tomate seco: Média (M) R$ 46,00; Grande (G) R$ 58,00. Molho de tomate artesanal, mussarela, tomate seco, parmesão e rúcula.
+- Pizza Brócolis com bacon: Média (M) R$ 50,00; Grande (G) R$ 60,00. Molho de tomate artesanal, mussarela, brócolis, alho frito, bacon e orégano.
+- Pizza Bode: Média (M) R$ 58,00; Grande (G) R$ 72,00. Molho de tomate artesanal, mussarela, bode desfiado, cebola roxa e orégano.
+- Pizza Quatro queijos: Média (M) R$ 55,00; Grande (G) R$ 70,00. Molho de tomate artesanal, mussarela, provolone, gorgonzola, catupiry e orégano.
+- Pizza Atum: Média (M) R$ 55,00; Grande (G) R$ 70,00. Molho de tomate artesanal, atum, mussarela e orégano.
+- Pizza Queijo de búfala com tomate seco: Média (M) R$ 58,00; Grande (G) R$ 72,00. Molho de tomate artesanal, mussarela, queijo de búfala, tomate seco e orégano.
+
+**Doces**
+- Pizza Romeu e Julieta: Média (M) R$ 55,00; Grande (G) R$ 70,00. Queijo e goiabada.
+- Pizza Banana com canela: Média (M) R$ 55,00; Grande (G) R$ 70,00. Mussarela, banana e um toque de canela.
+- Pizza Brigadeiro: Média (M) R$ 59,90; Grande (G) R$ 72,00. Brigadeiro caseiro e granulado.
+
+### Burguers Gourmet
+- Burguer clássico: R$ 38,00. Pão brioche selado, blend bovino especial (150g), queijo mussarela, bacon crocante e mix de folhas crocantes. Acompanha maionese da casa.
+- Burguer duplo: R$ 42,00. Pão brioche selado, dois blends bovinos de 100g, mussarela dobrada, bacon crocante e mix de folhas crocantes. Acompanha maionese da casa.
+- Cheddar burguer: R$ 39,90. Pão australiano selado, blend bovino especial (150g), cheddar fatiado, bacon crocante e cebola caramelizada. Acompanha maionese da casa.
+- Bode burguer: R$ 39,90. Pão brioche selado, hambúrguer de bode especial (150g), queijo coalho, bacon crocante, mix de folhas crocantes e picles de cebola roxa. Acompanha maionese da casa.
+- Frango crispy: R$ 33,90. Pão brioche selado, filé de frango crocante, maionese de limão siciliano, mussarela, bacon e mix de folhas crocantes. Acompanha maionese da casa.
+- Salmão crispy: R$ 54,90. Pão brioche selado, salmão, cream cheese, mix de folhas e couve crispy. Acompanha maionese da casa ou molho teriyaki.
+- Romeu e Julieta burguer: R$ 42,90. Pão brioche selado, blend bovino especial (150g), queijo coalho, bacon crocante e molho cremoso de goiabada.
+
+### Sobremesas
+- Pudim de leite: R$ 9,90. Clássico pudim de leite condensado com caramelo.
+- Banoffee: R$ 19,90. Massa quebradiça, doce de leite, banana, canela e chantilly.
+- Brownie com sorvete: R$ 19,90. Brownie de chocolate meio amargo com castanha de caju, acompanha sorvete de creme.
+- Cheesecake: Frutas vermelhas R$ 19,90; Morango R$ 19,90; Maracujá R$ 19,90; Frutas amarelas R$ 19,90. Escolha o sabor.
+- Torta de chocolate: R$ 16,90
+
+### Drinks
+
+**Autorais & clássicos**
+- Moscow Mule: R$ 23,00. Vodka Smirnoff, extrato de gengibre, suco de limão Taiti, limão siciliano, grapefruit, cerveja, xarope de açúcar, refrigerante de limão e angostura. Finalizado com espuma de gengibre.
+- Patty Blue: R$ 19,90. 40ml de vodka, 30ml de licor de coco, 25ml de curaçau blue, 20ml de xarope de açúcar e 25ml de sumo de limão.
+- Piña Colada: R$ 24,90. 50ml de rum (carta ouro), 20ml de leite de coco, 80ml de suco de abacaxi, 40ml de leite condensado, 20ml de creme de leite e gelo.
+- Sex on the Beach: R$ 25,00. 40ml de vodka, 20ml de licor de pêssego, 40ml de xarope de cranberry, cerca de 50ml de suco de laranja e gelo.
+- Brazilian Beach: R$ 25,00. 50ml de vodka, 40ml de xarope de grenadine, 4 morangos, 1 kiwi e gelo.
+- Margarita: R$ 29,90. 50ml de tequila (carta branca), 25ml de Cointreau/triple sec, 30ml de curaçau blue, 25ml de sumo de limão e 10ml de xarope simples.
+- Mojito: R$ 22,00. 50ml de rum (carta branca), 40ml de suco de limão, 35ml de xarope de açúcar, água tônica e hortelã.
+- Negroni: R$ 25,00. 40ml de gim, 40ml de Campari, 40ml de vermute tinto e twist de laranja.
+- Fritzgerald: R$ 22,00. 50ml de gim, 20ml de sumo de limão siciliano, 15ml de xarope de açúcar, 3 dashes de angostura e twist de limão.
+- Espresso Martini: R$ 21,00. 30ml de vodka, 40ml de licor de marula e 1 café espresso.
+- Adri & Ket: “Poste & Vire”: R$ 20,00. Influenshots: dois shots com personalidades diferentes que, juntos, fazem o seu feed e a sua noite bombarem! Ideal para virar com sua dupla e marcar o @magmacafe_
+
+**Gins**
+- Gin Citrus: R$ 26,00. 50ml de gin, 40ml de sumo de limão, refrigerante citrus, gelo, canela em pau, hortelã, laranja desidratada, zimbro e pimenta-rosa.
+- Gin Morango: R$ 29,00. 50ml de gin, 5 morangos, 40ml de xarope de hibisco, água tônica, gelo, canela em pau, hortelã, zimbro, pimenta-rosa e hibisco.
+- Gin Curaçau Blue: R$ 29,00. 50ml de gin, 40ml de curaçau blue, água tônica, gelo, canela em pau, hortelã, laranja desidratada, zimbro e pimenta-rosa.
+- Gin Aperol: R$ 32,00. 50ml de gim, 4 gomos de tangerina, água tônica, 40ml de Aperol, 15ml de xarope simples, gelo, canela em pau, hortelã, laranja desidratada, zimbro e pimenta-rosa.
+
+**Caipis**
+- Caipirinha: Limão R$ 17,90; Morango R$ 17,90; Kiwi R$ 17,90. Limão, morango ou kiwi.
+- Caipirinha de morango com limão siciliano: R$ 19,90
+- Caipirosca: Limão R$ 17,90; Morango R$ 17,90; Kiwi R$ 17,90. Limão, morango ou kiwi.
+- Caipirosca de morango com limão siciliano: R$ 19,90
+- Saquêrosca: Limão R$ 17,90; Morango R$ 17,90; Kiwi R$ 17,90. Limão, morango ou kiwi.
+- Saquêrosca de morango com limão siciliano: R$ 19,90
+
+### Bebidas
+
+**Bebidas variadas**
+- Água: R$ 4,00
+- Água com gás: R$ 6,00
+- Coca-Cola (lata): R$ 7,00
+- Coca Zero (lata): R$ 7,00
+- Guaraná Antarctica (lata): R$ 7,00
+- Red Bull: R$ 16,00
+- Refrigerante tônica (lata): R$ 8,00
+- Schweppes Citrus: R$ 8,00
+- Sumo de limão: R$ 1,00
+- Smirnoff Ice: R$ 13,00
+
+**Sucos**
+- Suco de laranja: Copo 400ml R$ 8,00; Jarra 700ml R$ 14,00
+- Laranja com morango: 400ml R$ 14,00; 700ml R$ 19,00
+- Limão: 400ml R$ 8,00; 700ml R$ 12,00
+- Abacaxi com hortelã: 400ml R$ 9,90; 700ml R$ 15,00
+
+**Cervejas**
+- Spaten long neck: R$ 12,00
+- Corona Extra long neck: R$ 13,00
+- Heineken long neck: R$ 13,00
+- Heineken Zero long neck: R$ 13,00
+- Stella Artois long neck: R$ 12,00
+- Stella Artois Pure Gold long neck: R$ 13,00
+- Budweiser long neck: R$ 11,00
+- Original (litrinho): R$ 6,00
+
+**Destilados**
+- Whisky Old Parr: R$ 20,00
+- Whisky Ballantine's: R$ 13,00
+- Vodka Smirnoff: R$ 15,00
+- Vodka Absolut: R$ 20,00
+- Cointreau: R$ 20,00
+- Campari: R$ 15,00
+- Licor 43: R$ 25,00
+- Cachaça Seleta: R$ 10,00
+- Conhaque: R$ 12,00
+
+**Vinhos**
+- Vinho nacional (taça): Suave R$ 19,90; Seco R$ 19,90. Suave ou seco.
+
+Preços sujeitos a alteração; confirme com a equipe.
