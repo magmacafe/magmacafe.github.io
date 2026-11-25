@@ -55,7 +55,7 @@ img{display:block;max-width:100%}
 .hero{position:relative;overflow:hidden;isolation:isolate}
 .hero::before{content:"";position:absolute;inset:0;z-index:-1;background:url(img/foto-cappuccino.webp) center 35%/cover;opacity:.15;filter:saturate(.8);
   -webkit-mask:linear-gradient(#000 25%,transparent);mask:linear-gradient(#000 25%,transparent)}
-.hero .wrap{padding-top:40px;padding-bottom:26px;display:grid;gap:22px;text-align:center}
+.hero .wrap{padding-top:40px;padding-bottom:28px;display:grid;gap:24px;text-align:center}
 h1{margin:0}
 .logo{width:min(250px,66vw);height:auto;aspect-ratio:900/319;margin:0 auto}
 .tag{font-family:Questrial,sans-serif;font-size:17px;margin-top:16px}
@@ -69,6 +69,8 @@ h1{margin:0}
 .act{display:flex;flex-direction:column;align-items:center;gap:6px;padding:12px 6px;border-radius:14px;background:var(--card);border:1px solid var(--line);font-size:12.5px;color:var(--mute);transition:border-color .2s,color .2s,background .2s}
 .act:hover{border-color:var(--accent-b);color:var(--ink);background:var(--card2)}
 .act svg{width:22px;height:22px;fill:var(--accent)}
+.side{display:grid;gap:18px;justify-items:center;width:100%;max-width:560px;justify-self:center}
+.side .actions{width:100%}
 .info{display:none}
 
 /* ===== NAV ===== */
